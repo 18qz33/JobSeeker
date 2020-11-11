@@ -9,5 +9,5 @@ Step 1: Open Eclipse Download page: https://www.eclipse.org/downloads/ to downlo
 Step 2: Open the Tomcat official download page: http://tomcat.apache.org/download-90.cgi to install the Tomcat server.  
 Step 3: Add the project to Tomcat server and start.
 ```sh
-$ http://localhost:8080/jupiter
+http://localhost:8080/jupiter
 ```
