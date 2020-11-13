@@ -4,7 +4,7 @@ JobSeeker is a Java and AWS based job recommendation engine. The system can be u
 ## Demo
 https://drive.google.com/file/d/1xDddkgrBZEaLs8S0fixseQESK0KXsCWb/view?usp=sharing
 ## Install
-The project uses Tomcat Server and Java EE. Go check them out if you don't have them locally installed.   
+The project uses Tomcat Server and Java EE. Please check them out if you don't have them locally installed.   
 Step 1: Open Eclipse Download page: https://www.eclipse.org/downloads/ to download the JavaEE based on your OS.   
 Step 2: Open the Tomcat official download page: http://tomcat.apache.org/download-90.cgi to install the Tomcat server.  
 Step 3: Add the project to Tomcat server and start; use the following link to view.
