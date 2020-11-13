@@ -1,6 +1,6 @@
 # JobSeeker
 ## Background
-JobSeeker is a Java and AWS based job recommendation engine. The system can be used to browse job positions based on the user’s current city and history records. Tradional recommender engines cannot satisfy users' requirements; for example, an e-commerce recommender might recommend products that the user only need once but never need again or recommend video games to an old man because he uses his grandchild's account, etc. This recommender solved these problems and that is why it will be required by users.
+JobSeeker is a Java and AWS based job recommendation engine. The system can be used to browse job positions based on the user’s current city and history records. Tradional recommender engines cannot satisfy users' requirements; for example, an e-commerce recommender might recommend products that the user only need once but never need again or recommend video games to an old man because he uses his grandchild's account, etc. The JobSeeker is intended to solve these problems.
 ## Demo
 https://drive.google.com/file/d/1xDddkgrBZEaLs8S0fixseQESK0KXsCWb/view?usp=sharing
 ## Install
